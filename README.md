@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jain-shruti
 - 👀 I’m interested in Development
-- 🌱 Full Stack Developer (Java, MERN)
+- 🌱 Full Stack Developer (Python, MERN)
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 Reach me at shrutirjain.sj@gmail.com
 
